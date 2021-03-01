@@ -1,5 +1,5 @@
 body {
-    background: url("fona_bilde.jpg");
+    background: url("fons.jpg");
 }
 p {
     color: black;
@@ -12,7 +12,7 @@ ul {
     font-size: 15px;
 }
 table{
-    width: 80%;
+    width: 30%;
 }
 table, th, td {
   border: 1px solid black;
