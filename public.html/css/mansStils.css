@@ -1,0 +1,32 @@
+body {
+    background: url("fons.jpg");
+}
+p {
+    color: black;
+    font-family: Copperplate, fantasy;
+    font-size: 20px;
+}
+ul {
+    color: blueviolet;
+    font-family: Copperplate, fantasy;
+    font-size: 15px;
+}
+table{
+    width: 50%;
+}
+table, th, td {
+  border: 1px solid black;
+  font-family: Copperplate, fantasy;
+}
+
+/*
+
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021. gada 26. febr., 13:45:31
+    Author     : monik
+*/
+
